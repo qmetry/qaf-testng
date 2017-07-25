@@ -36,7 +36,7 @@
     </configurations>
     
 	<dependencies>
-		<dependency org="org.testng" name="testng" rev="6.8.5" conf="compile->default">
+		<dependency org="org.testng" name="testng" rev="6.9.10" conf="compile->default">
 			<artifact name="testng" type="jar"></artifact>
 		</dependency>
 		<dependency org="com.qmetry" name="qaf" rev="2.1.11"   conf="provided->default" />

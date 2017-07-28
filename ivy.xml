@@ -36,10 +36,9 @@
     </configurations>
     
 	<dependencies>
-		<dependency org="org.testng" name="testng" rev="6.10" conf="compile->default">
+		<dependency org="org.testng" name="testng" rev="6.11" conf="compile->default">
 			<artifact name="testng" type="jar"></artifact>
 		</dependency>
-		<dependency org="org.beanshell" name="bsh" rev="2.0b5"/>
 		<dependency org="com.qmetry" name="qaf" rev="2.1.11"   conf="provided->default" />
 	</dependencies>
 </ivy-module>

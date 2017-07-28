@@ -21,7 +21,7 @@
 				
 		</chain>
 		<filesystem name="local-m2-publish" m2compatible="true">
-      		<artifact pattern="${basedir}/repository/[organisation]/[module]/[revision]/qaf-[revision](-[classifier]).[ext]"/>
+      		<artifact pattern="${basedir}/repository/[organisation]/[module]/[revision]/qaf-testng-[revision](-[classifier]).[ext]"/>
     	</filesystem>
 	</resolvers>
 </ivysettings>
